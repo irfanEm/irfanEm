@@ -63,18 +63,16 @@ Saya menyukai proses membangun solusi yang rapi, scalable, dan mudah dipelihara.
 ## 🌐 Profesional Badge & Kontak  
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/irfan-machmud/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:imachmud97@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
-*(Pastikan mengganti email/LinkedIn/portfolio dengan milikmu!)*
 
 ---
 
